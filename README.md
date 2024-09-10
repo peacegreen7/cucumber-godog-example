@@ -13,6 +13,7 @@ You can find a few apis to practice here:
 
 [Welcome Dummy api example](https://dummy.restapiexample.com/)
 
+[FakeRESTApi.Web V1](https://fakerestapi.azurewebsites.net/index.html)
 
 ### Getting Started
 #### Step 1 - Setup a go module
