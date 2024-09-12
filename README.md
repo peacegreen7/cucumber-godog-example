@@ -1,9 +1,9 @@
-# Godogs
+# Godog
 
 ### Introduction
 Hello everyone :D
 
-This is the simple project using Godogs package which is the official Cucumber BDD framework for Golang
+This is the simple project using ***godog*** package which is the official Cucumber BDD framework for Golang
 
 You can find a few apis to practice here:
 
